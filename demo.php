@@ -1,1 +1,3 @@
-demo
+<?php
+
+echo 'demo';
