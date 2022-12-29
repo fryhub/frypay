@@ -3,7 +3,8 @@
 	"description": "frypay Composer Package",
 	"require": {
 		"php": ">=7.4",
-		"monolog/monolog": "2.8.0"
+		"monolog/monolog": "2.8.0",
+		"guzzlehttp/guzzle": "^7.0"
 	},
 	"license": "MIT"
 }
