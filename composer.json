@@ -2,7 +2,8 @@
 	"name": "fryphp/frypay",
 	"description": "frypay Composer Package",
 	"require": {
-		"php": ">=7.4"
+		"php": ">=7.4",
+		"monolog/monolog": "2.8.0"
 	},
 	"license": "MIT"
 }
